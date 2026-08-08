@@ -1,0 +1,14 @@
+# Java build output
+bin/
+*.class
+oracleJdk-26/
+
+# VS Code
+.vscode/*.log
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
